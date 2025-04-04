@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In assignment 4, I learned how to better use Streamlit widgets like file_uploader, selectbox, and multiselect to build more interactive UIs. I also learned how to dynamically filter a pandas DataFrame, by using column selections and unique value filters. I struggled a bit with using pandaslib.get_columns_of_type because I initially passed in the wrong dtype string. But after debugging, I realized pandas stores types like 'object', 'int64', and 'float64' as strings. I am now more confident in using pandas with user input. But I’d like to get more practice reading JSON files into pandas and dealing with issues liek malformed data.
